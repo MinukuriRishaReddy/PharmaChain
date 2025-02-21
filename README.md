@@ -1,108 +1,22 @@
-## MEDIVAULT :
-MediVault is a Blockchain-based Electronic health Record Storage and Retrieval System.
+Our Story
+We at PharmaChain are united by a common vision to revolutionize the healthcare sector. We started with a simple yet profound insight: the existing healthcare system is marred by inefficiencies, security threats, and lack of transparency. We envisioned a chance to leverage the potential of blockchain and artificial intelligence (AI) to build a more secure, efficient, and patient-centric healthcare system.
 
-- Blockchain Technology with the help of **IPFS** Provides the Required Safety For Maintaining Record.
+Our Mission
+Our vision is to transform the healthcare sector through a secure, decentralized, and transparent platform for managing health records, prescription verification, and drug authentication. We're dedicated to giving patients ownership of their medical records, authenticating prescribed medicines, and offering healthcare professionals a trustworthy and efficient platform.
 
-- Securely Store Your Sensitive Data Such As Health Record.
+Our Values
+At PharmaChain, we are driven by a core set of values that underscore our passion for innovation, security, and patient-centricity.
 
-- Only Let Your Trusted Doctors To View Your Medical Records.
+- Innovation: We're enthusiastic about using leading-edge technologies to address intricate healthcare issues.
+- *Security*: We're committed to maintaining the confidentiality, integrity, and availability of sensitive healthcare information.
+- *Patient-Centricity*: We're of the opinion that patients must have ownership of their medical records and be empowered to make informed decisions regarding their healthcare.
+- *Collaboration*: We are dedicated to developing a culture of collaboration and transparent communication with our partners, stakeholders, and the wider healthcare community.
 
-### <u>EASY STEPS :</u>
+Our Team
+Our team is comprised of seasoned professionals in the healthcare, blockchain, and AI sectors. We share our passion for innovation and our dedication to revolutionizing the healthcare industry.
 
-> ***Register Yourself :***
-Register yourself to the locker, secured by blockchain technology.
+Our Vision
+Our mission is to build a future where healthcare is safer, more efficient, and patient-focused. We think that blockchain and AI can transform the healthcare sector, and we're dedicated to leading this change.
 
-> ***Authenticate Yourself :***
-Log In with your credentials.
-
-> ***Upload your Data :***
-Create, update, or view your health record information.
-
-### <u>PROBLEMS WE FACED :</u>
-
-- Getting problems in maintaining and organizing your medical records, before consulting your Doctor.
-
-- People usually don't go for regular checkup due to unorganised medical record which may lead to chronic disease in future.
-
-- Missing even one prescription can lead to wrong interpretation.
-
-- Medical records can be used to submit false insurance claims or to receive unauthorized medical treatment.
-
-- Some individuals or organizations may sell stolen medical records on the black market for profit.
-
-### <u>OUR SERVICES :</u>
-
-1. ***Maintaining Medical Records :***
-Keep track of your medical records, enabled by blockchain technology.
-
-2. ***Connect With Doctors :***
-Share your records with our trusted medical experts, to get a prescription.
-
-3. ***Disease Prediction Model :***
-Get a precautionary alert about diseases you might suffer from, based on our ML model.
-
-### <u>WORKING :</u>
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/9.png?raw=true)
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/10.png?raw=true)
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/11.png?raw=true)
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/12.png?raw=true)
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/13.png?raw=true)
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/14.png?raw=true)
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/15.png?raw=true)
-
-### <u>IPFS INTEGRATION :</u>
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/5.png?raw=true)
-
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/6.png?raw=true)
-
-### <u>MARKETING GOALS :</u>
-
-> ***Offer User-Friendly Platform :***
-Develop a user-friendly platform that is easy to use and understand for both patients and doctors. Offer training and support to help users get the most out of the platform, and gather feedback to continuously improve the user experience.
-
-> ***Emphasize the Security Benefits :***
-The key selling point of this technology is the increased security it provides for medical records. Emphasize the importance of having a secure and encrypted platform for storing and sharing sensitive medical information.
-
-> ***Target Patients and Doctors :***
-Identify both patients and doctors as your target audience. Patients will appreciate the ability to have control over their own medical records, while doctors will appreciate the ease and efficiency of accessing these records.
-
-> ***Collaborate with Healthcare Providers :***
-Collaborate with healthcare providers to offer a complete solution for medical record management. This will help to build credibility and demonstrate the value of your technology.
-
-### <u>FUTURE ASPECTS :</u>
-
-1. Doctor Treating The Patient Can Update Their Record And Prescribe Medicines.
-
-2. User Can Directly Talk / Chat With The Doctor They Want On Our Site.
-
-3. The System Can Be Automated To Gather Data Using The Report Uploaded By The User.
-
-4. We Will Create a Multi-Platform Application For Better User Experience.
-
-5. The Prediction Model Can Be Further Trained For Better Accuracy
-
-### <u>TECH STACKS USED :</u>
-
-- IPFS
-- Ganache
-- Solidity
-- MetaMask
-- Flask
-- React
-- Tailwind CSS
-
-### <u>TEAM THE BOYS :</u>
-
->Viraj Chandra (Frontend)
-Piyush Kumar (Backend)
-Vibhor Singh (ML)
-Aniket Kumar (Frontend)
-Anurag Deo (Frontend)
+Join Our Journey
+If you're as committed as we are to revolutionizing the healthcare sector, we welcome you to be a part of our journey. Visit our platform, read more about our mission and values, and find out how you can contribute to our cause of building a safer, more efficient, and patient-focused healthcare ecosystem.
